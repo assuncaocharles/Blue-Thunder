@@ -1,0 +1,22 @@
+{
+  "name": "blue-thunder",
+  "displayName": "Blue Thunder",
+  "publisher": "CharlesAssuncao",
+  "description": "",
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.61.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Blue Thunder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Blue Thunder-color-theme.json"
+      }
+    ]
+  }
+}

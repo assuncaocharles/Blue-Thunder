@@ -2,8 +2,13 @@
   "name": "blue-thunder",
   "displayName": "Blue Thunder",
   "publisher": "CharlesAssuncao",
+  "icon": "assets/logo.png",
   "description": "",
-  "version": "0.0.4",
+  "version": "0.0.5",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assuncaocharles/Blue-Thunder"
+  },
   "engines": {
     "vscode": "^1.61.0"
   },

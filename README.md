@@ -1,3 +1,5 @@
+# Blue Thunder
+
 <div align="center">
   <img src="./assets/logo.png" alt="Blue Thunder Logo" width="150">
   <h1> Blue Thunder for <a href="https://code.visualstudio.com/">Visual Studio Code</a></h1>

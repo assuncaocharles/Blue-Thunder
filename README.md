@@ -17,7 +17,7 @@ Blue Thunder theme is a dark blue theme with green tones, bringing futuristic de
 
 ## Screenshot
 
-<img src="./assets/theme.png" alt="Theme colors" />
+<img src="assets/theme.png" alt="Theme colors" />
 
 <hr>
 

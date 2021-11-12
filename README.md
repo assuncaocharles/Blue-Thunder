@@ -8,7 +8,7 @@
 ## Theme
 
 <p>
-Blue Thunder theme, is a dark theme focused on blue and green tones, bringing futuristic and precise details to your daily life.
+Blue Thunder theme is a dark blue theme with green tones, bringing futuristic details to your daily coding life.
 </p>
 
 <p align="center">

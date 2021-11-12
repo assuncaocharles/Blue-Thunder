@@ -1,7 +1,7 @@
 # Blue Thunder
 
 <div align="center">
-  <img src="./assets/logo.png" alt="Blue Thunder Logo" width="150">
+  <img src="assets/logo.png" alt="Blue Thunder Logo" width="150px" height="150px">
   <h1> Blue Thunder for <a href="https://marketplace.visualstudio.com/items?itemName=CharlesAssuncao.blue-thunder">Visual Studio Code</a></h1>
 </div>
 
